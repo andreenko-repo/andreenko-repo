@@ -32,6 +32,7 @@ My current work explores:
 I converted the alarms dataset into a text format to test alarm management methods using NLP AI models.
 
 The alarm viewer can be found here: https://huggingface.co/spaces/AntonAndreenko/tep_alarms_viewer
+
 Github: https://github.com/andreenko-repo/tep_alarms_text
 
 ## PID Controller Performance Evaluation and Tuning
@@ -39,4 +40,5 @@ Github: https://github.com/andreenko-repo/tep_alarms_text
 This is a small experiment in PID performance evaluation and tuning using historical data.
 
 A demo can be found here: https://huggingface.co/spaces/AntonAndreenko/pid_tuning
+
 GitHub: https://github.com/andreenko-repo/pid_tuning
