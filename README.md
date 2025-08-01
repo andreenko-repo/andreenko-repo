@@ -1,6 +1,6 @@
 👋 About Me
 
-Hi, I'm Anton Andreenko — a Control System Engineer with over 17 years of experience in industrial automation.
+Hi, I'm Anton Andreenko — a an Engineer with over 17 years of experience in industrial automation.
 
 I hold a Master’s degree in Computer Science, where I was first introduced to artificial intelligence and neural networks. That early spark has grown into a focused passion: I'm now dedicated to adopting AI for industrial applications — bridging the gap between operational technology (OT) and cutting-edge machine learning.
 
