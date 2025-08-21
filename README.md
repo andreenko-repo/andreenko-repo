@@ -27,6 +27,12 @@ My current work explores:
 🔧 Developing intelligent solutions to enhance safety, efficiency, and decision-making in manufacturing and process industries
 
 # My Projects
+## Gemini Market Analysis Report Generator
+
+A sample application that demonstrates how to use the Google Gemini API's native Google Search tool for two distinct purposes: data collection and response grounding. These techniques allow you to minimize hallucinations in many real-world applications.
+
+Github: https://github.com/andreenko-repo/gemini_market_analysis
+
 ## Tennessee Eastman Process Alarms
 
 I converted the alarms dataset into a text format to test alarm management methods using NLP AI models.
