@@ -27,6 +27,15 @@ My current work explores:
 🔧 Developing intelligent solutions to enhance safety, efficiency, and decision-making in manufacturing and process industries
 
 # My Projects
+
+## Using LLMs for P&ID diagrams Q&A
+
+A proof-of-concept application demonstrating the use of a Large Language Model (in this case, Google's Gemini 2.5 Pro) to perform question-answering on Piping and Instrumentation Diagrams (P&IDs).
+
+Github: https://github.com/andreenko-repo/pid_diagrams_llm/
+
+A demo can be found here: https://huggingface.co/spaces/AntonAndreenko/pid_diagram_qa
+
 ## Gemini Market Analysis Report Generator
 
 A sample application that demonstrates how to use the Google Gemini API's native Google Search tool for two distinct purposes: data collection and response grounding. These techniques allow you to minimize hallucinations in many real-world applications.
