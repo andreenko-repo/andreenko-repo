@@ -28,6 +28,12 @@ My current work explores:
 
 # My Projects
 
+## A simple app to identify equipment using camera
+
+A small web app that uses local Qdrant database and a camera to identify equipment and display information about it.
+
+Github: https://github.com/andreenko-repo/shazam_for_plant_eqp
+
 ## Using LLMs for P&ID diagrams Q&A
 
 A proof-of-concept application demonstrating the use of a Large Language Model (in this case, Google's Gemini 2.5 Pro) to perform question-answering on Piping and Instrumentation Diagrams (P&IDs).
