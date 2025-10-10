@@ -28,7 +28,7 @@ My current work explores:
 
 # My Projects
 
-## A simple app to identify equipment using camera
+## Shazam for Plant Equipment
 
 A small web app that uses local Qdrant database and a camera to identify equipment and display information about it.
 
