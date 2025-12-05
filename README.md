@@ -30,7 +30,7 @@ My current work explores:
 
 ## AI Process Operator
 
-An experiment using a Gemini-based AI Agent to control the Tennessee Eastman Process through HMI screens, testing how AI can apply reasoning to industrial process control like a human operator.
+An experiment (inspired by Google and DeepMind SIMA-2) using a Gemini-based AI Agent to control the Tennessee Eastman Process through HMI screens, testing how AI can apply reasoning to industrial process control like a human operator.
 
 Github: https://github.com/andreenko-repo/ai_process_operator
 
