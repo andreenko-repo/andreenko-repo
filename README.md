@@ -28,6 +28,12 @@ My current work explores:
 
 # My Projects
 
+## AI Process Operator
+
+An experiment using a Gemini-based AI Agent to control the Tennessee Eastman Process through HMI screens, testing how AI can apply reasoning to industrial process control like a human operator.
+
+Github: https://github.com/andreenko-repo/ai_process_operator
+
 ## Shazam for Plant Equipment
 
 A small web app that uses local Qdrant database and a camera to identify equipment and display information about it.
