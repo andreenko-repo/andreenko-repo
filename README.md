@@ -1,18 +1,20 @@
 # 👋 About Me
 
-Hi, I'm Anton Andreenko — a an Engineer with over 17 years of experience in industrial automation.
+Hi, I'm Anton Andreenko — a an Engineer with over 17 years of experience.
 
 I hold a Master’s degree in Computer Science, where I was first introduced to artificial intelligence and neural networks.
 
-I see plenty of opportunities for AI implementation in industrial process control — including areas like:
+I see plenty of opportunities for AI implementation in controls automation:
 
-✅ Quality control
+- Quality control
 
-🔐 OT security
+- Anomaly Detection
 
-🚨 Alarm management
+- Network security
 
-🛠️ Troubleshooting
+- Alarm/Log management
+
+- Troubleshooting
 
 ...and many others.
 
@@ -22,9 +24,9 @@ My current work explores:
 
 🌐 Industrial AI for predictive maintenance, anomaly detection, and process optimization
 
-🤖 Integrating AI into DCS, PLC, and SCADA environments
+🤖 Integrating AI into enterprise environments
 
-🔧 Developing intelligent solutions to enhance safety, efficiency, and decision-making in manufacturing and process industries
+🔧 Developing intelligent solutions to enhance safety, efficiency, and decision-making
 
 # My Projects
 
