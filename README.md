@@ -1,4 +1,4 @@
-# 👋 About Me
+# About Me
 
 Hi, I'm Anton Andreenko — a an Engineer with over 17 years of experience.
 
@@ -22,11 +22,11 @@ The rise of foundation AI models has given a huge boost to this direction, makin
 
 My current work explores:
 
-🌐 Industrial AI for predictive maintenance, anomaly detection, and process optimization
+AI solutions for predictive maintenance, anomaly detection, and process optimization
 
-🤖 Integrating AI into enterprise environments
+Integrating AI into enterprise environments
 
-🔧 Developing intelligent solutions to enhance safety, efficiency, and decision-making
+Developing intelligent solutions to enhance safety, efficiency, and decision-making
 
 # My Projects
 
