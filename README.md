@@ -33,6 +33,7 @@ Developing intelligent solutions to enhance safety, efficiency, and decision-mak
 ## Studio 5000 L5X Logic Extractor
 
 A small tool that extracts logic and variables from Studio 5000 L5X exports. Extracted informtion is much mor ecompact than original L5X file, so it can be more effciantly used for analysis using AI NLP tools. 
+
 Github: https://github.com/andreenko-repo/rockwell_logic_l5x_extractor
 
 ## AI Process Operator
