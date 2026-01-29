@@ -30,6 +30,12 @@ Developing intelligent solutions to enhance safety, efficiency, and decision-mak
 
 # My Projects
 
+## Alarm Management
+
+A sample script that shows how Python can be used in Alarms Management. It loads alarms from csv file and calculates varisou metrics (per ISA-18.2 and EEMUA 191 guidelines) and also generates recommendations. All calculations are extrame inexpensive and can be done on any computer (and even mobile phone).
+
+Github: https://github.com/andreenko-repo/alarms_analyzer
+
 ## Studio 5000 L5X Logic Extractor
 
 A small tool that extracts logic and variables from Studio 5000 L5X exports. Extracted informtion is much mor ecompact than original L5X file, so it can be more effciantly used for analysis using AI NLP tools. 
